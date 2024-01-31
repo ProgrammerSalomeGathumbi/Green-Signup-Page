@@ -9,8 +9,8 @@
   }
   
   .heading-text {
-    background-color: #1cee50;
-    color: #064204c0;
+    background-color: #05720a;
+    color: #032c02c0;
     font-size: 18px;
     width: 200%; 
     padding: 20px;
@@ -41,7 +41,7 @@
     font-weight: bold;
   }
   .button {
-    background-color: #4CAF50;
+    background-color: #012902;
     color: #fff;
     padding: 10px 20px;
     border-radius: 5px;
@@ -49,6 +49,6 @@
   }
   
   .button:hover {
-    background-color: #2124e7;
+    background-color: #566809;
   }
   
