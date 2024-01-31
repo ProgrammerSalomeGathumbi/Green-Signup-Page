@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Green Signup Page
 
 Welcome to the Green Signup Page, a project aimed at promoting environmental awareness and participation in tree-planting events.
