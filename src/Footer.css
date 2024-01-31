@@ -1,0 +1,10 @@
+.footer-container {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+      font-weight: bold;
+      text-align: center;
+      display: flex;
+      justify-content: space-around;
+     
+}
