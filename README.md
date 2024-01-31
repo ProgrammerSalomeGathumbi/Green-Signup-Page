@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Green Signup Page
 
 Welcome to the Green Signup Page, a project aimed at promoting environmental awareness and participation in tree-planting events.
@@ -32,6 +33,3 @@ The Green Signup Page is a React web application designed to facilitate sign-ups
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvements, feature requests, or if you find any issues, feel free to open an issue or submit a pull request.
-
-
-
