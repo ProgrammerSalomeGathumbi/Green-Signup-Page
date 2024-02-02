@@ -1,4 +1,4 @@
-/* EventSection.css */
+
 .event-section {
     color: #fff;
     font-family: 'Montserrat', sans-serif;
@@ -44,4 +44,6 @@
     width: 48%; 
     padding: 10px; 
   }
-  
+  .event-date {
+    color: rgb(1, 53, 1);
+  }
